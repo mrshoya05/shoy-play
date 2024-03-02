@@ -1,0 +1,18 @@
+{
+  "name": "shotube",
+  "version": "1.0.0",
+  "description": "final year project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "MERN",
+    "react",
+    "node",
+    "mongodb"
+  ],
+  "author": "shoyab khan",
+  "license": "ISC"
+}
