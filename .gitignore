@@ -73,10 +73,12 @@ web_modules/
 # Output of 'npm pack'
 *.tgz
 
+
 # Yarn Integrity file
 .yarn-integrity
 
 # dotenv environment variable files
+.env*
 .env
 .env.development.local
 .env.test.local
@@ -142,3 +144,6 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+.env
+.env
+.env
